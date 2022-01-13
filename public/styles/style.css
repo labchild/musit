@@ -67,7 +67,7 @@ nav {
 .home-title {
     display: flex;
     justify-content: center;
-    color: white;
+    color: rgb(247, 246, 248);
     font-size: 25px;
     font-weight: bold;
     font-family:Georgia, 'Times New Roman', Times, serif
